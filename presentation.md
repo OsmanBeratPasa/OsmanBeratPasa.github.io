@@ -4,6 +4,6 @@ title: Presentation Topic
 permalink: /presentation/
 ---
 
-## The N+1 Query Problem in ORMs
+## Docker and Containers
 
 Slides and sources: coming soon.
