@@ -1,0 +1,9 @@
+title: Osman's Notes
+author: Osman
+description: >-
+  My personal site for the Professional English course:
+  my presentation, my sources and my blog posts.
+github_username: OsmanBeratPasa
+theme: minima
+plugins:
+  - jekyll-feed
