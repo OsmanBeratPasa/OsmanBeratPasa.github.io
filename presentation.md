@@ -4,4 +4,6 @@ title: Presentation Topic
 permalink: /presentation/
 ---
 
-Coming soon: my presentation topic, slides and sources.
+## Do AI Coding Assistants Make Developers Faster?
+
+Slides and sources: coming soon.
