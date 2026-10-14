@@ -4,6 +4,6 @@ title: Presentation Topic
 permalink: /presentation/
 ---
 
-## Do AI Coding Assistants Make Developers Faster?
+## The N+1 Query Problem in ORMs
 
 Slides and sources: coming soon.
